@@ -27,4 +27,4 @@ githooks 自动化校验
 
 ## Github Actions
 - ci.yml: 监听所有分支的push和pull_request动作，自动执行linter和tests任务
-- cd.yml: 
+- cd.yml: 自动发布的流程
