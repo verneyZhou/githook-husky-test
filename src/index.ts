@@ -3,3 +3,4 @@ const calc = (a: number, b: number): number => {
 }
 
 console.log('=====calc', calc(1024, 28))
+// export default calc

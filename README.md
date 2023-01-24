@@ -17,3 +17,14 @@ githooks 自动化校验
 
 ## Commitlint
 提交规范
+
+
+
+## Jest
+测试
+
+
+
+## Github Actions
+- ci.yml: 监听所有分支的push和pull_request动作，自动执行linter和tests任务
+- cd.yml: 
