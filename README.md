@@ -3,7 +3,7 @@ husky test
 
 
 
-[前端工程化配置指南](https://juejin.cn/post/6971812117993226248)
+参考：[前端工程化配置指南](https://juejin.cn/post/6971812117993226248)
 
 
 
@@ -18,6 +18,7 @@ githooks 自动化校验
 ## Commitlint
 提交规范
 
+- `git commit -m'fix: test'`
 
 
 ## Jest
